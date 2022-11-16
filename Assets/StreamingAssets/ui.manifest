@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 3743756254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19b90cf4e2f0b54b224f2cd8b0516e66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b310751ee85ce100e5f3af7c39612c0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Texture/HP/UI_HPBar_1_Outline.png
+- Assets/Texture/Food/UI_ItemIcon_100011.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Mona.png
+- Assets/Texture/HP/UI_Icon_HP.png
+- Assets/Texture/HP/UI_DeBuff_Hp.png
+- Assets/Texture/HP/UI_Img_HpBar_Elite.png
+- Assets/Texture/Food/UI_ItemIcon_100052.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Ningguang.png
+- Assets/Texture/Food/UI_ItemIcon_100017.png
+- Assets/Texture/UI_EquipIcon/UI_EquipIcon_Bow_Exotic.png
+- Assets/Texture/HP/UI_HPBar_0s_Outline.png
+- Assets/Texture/UI_EquipIcon/UI_EquipIcon_Bow_Curve.png
+- Assets/Texture/HP/UI_Img_HpBar_Outline.png
+- Assets/Texture/HP/UI_HPBar_0_Outline.png
+- Assets/Texture/Food/UI_ItemIcon_100051.png
+- Assets/Texture/Food/UI_ItemIcon_100030.png
+- Assets/Texture/HP/UI_Img_HpBar.png
+- Assets/Texture/Food/UI_ItemIcon_100061.png
+- Assets/Texture/HP/UI_HPBar_0s_Elite.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Kazuha.png
+- Assets/Texture/Btn/UI_BtnIcon_PlayerBoy.png
+- Assets/Texture/HP/UI_HPBar_1.png
+- Assets/Texture/Btn/UI_BtnIcon_BattlePass.png
+- Assets/Texture/Food/UI_ItemIcon_100073.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Lisa.png
+- Assets/Texture/HP/UI_HPBar_1_Elite.png
+- Assets/Texture/Btn/UI_BtnIcon_HideUI.png
+- Assets/Texture/Food/UI_ItemIcon_100031.png
+- Assets/Texture/HP/UI_HPBar_2_Elite.png
+- Assets/Texture/HP/UI_HPBar_0s.png
+- Assets/Texture/Btn/UI_BtnIcon_Handbook.png
+- Assets/Texture/HP/UI_HPBar_2.png
+- Assets/Texture/Btn/UI_BtnIcon_Homeworld.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_MonaCostumeWic.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Klee.png
+- Assets/Texture/Food/UI_ItemIcon_100072.png
+- Assets/Texture/Food/UI_ItemIcon_100094.png
+- Assets/Texture/Btn/UI_BtnIcon_Leave.png
+- Assets/Texture/Food/UI_ItemIcon_100016.png
+- Assets/Texture/HP/UI_Buff_Item_Recovery_HpAddAll.png
+- Assets/Texture/Btn/UI_BtnIcon_ActivityEntry.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Kaeya.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_None.png
+- Assets/Texture/Food/UI_ItemIcon_100013.png
+- Assets/Texture/Btn/UI_BtnIcon_Bag.png
+- Assets/Texture/Btn/UI_BtnIcon_MPWorld.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_PlayerGirl.png
+- Assets/Texture/Food/UI_ItemIcon_100081.png
+- Assets/Prefabs/OneMassage.prefab
+- Assets/Texture/UI_LoadingIcon.png
+- Assets/Texture/Food/UI_ItemIcon_100021.png
+- Assets/Texture/Food/UI_ItemIcon_100027.png
+- Assets/Texture/Food/UI_ItemIcon_100079.png
+- Assets/Texture/Food/UI_ItemIcon_100023.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Qin.png
+- Assets/Texture/Food/UI_ItemIcon_100026.png
+- Assets/Texture/UI_TouchIcon/UI_TouchIcon_Refuse.png
+- Assets/Texture/Food/UI_ItemIcon_100002.png
+- Assets/Texture/HP/UI_HPBar_0_Elite.png
+- Assets/Texture/Food/UI_ItemIcon_100054.png
+- Assets/Texture/Food/UI_ItemIcon_100020.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Kate.png
+- Assets/Texture/Food/UI_ItemIcon_100075.png
+- Assets/Texture/Food/UI_ItemIcon_100015.png
+- Assets/Texture/Food/UI_ItemIcon_100001.png
+- Assets/Texture/Food/UI_ItemIcon_100057.png
+- Assets/Texture/HP/UI_HPBar_0.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_KeqingCostumeFeather.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Qin_TT.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Noel.png
+- Assets/Texture/Food/UI_ItemIcon_100053.png
+- Assets/Texture/HP/UI_HPBar_2_Outline.png
+- Assets/Texture/Food/UI_ItemIcon_100024.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Mona_TT.png
+- Assets/Texture/Food/UI_ItemIcon_100056.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Kokomi.png
+- Assets/Texture/Food/UI_ItemIcon_100074.png
+- Assets/Texture/HP/UI_Activity_CrystalLink_Buff_Hp.png
+- Assets/Texture/Btn/UI_BtnIcon_Gacha.png
+- Assets/Texture/Food/UI_ItemIcon_100062.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Paimon.png
+- Assets/Texture/Food/UI_ItemIcon_100025.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_QinCostumeSea.png
+- Assets/Texture/Food/UI_ItemIcon_100029.png
+- Assets/Texture/Food/UI_ItemIcon_100041.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_Keqing.png
+- Assets/Texture/Food/UI_ItemIcon_100064.png
+- Assets/Texture/Food/UI_ItemIcon_100019.png
+- Assets/Texture/HP/UI_Buff_Item_Recovery_HpAdd.png
+- Assets/Texture/UI_EquipIcon/UI_EquipIcon_Bow_Dvalin.png
+- Assets/Texture/Food/UI_ItemIcon_100033.png
+- Assets/Texture/Food/UI_ItemIcon_100022.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_PlayerBoy.png
+- Assets/Texture/Food/UI_ItemIcon_100018.png
+- Assets/Texture/Food/UI_ItemIcon_100012.png
+- Assets/Texture/Food/UI_ItemIcon_100032.png
+- Assets/Texture/UI_AvatarIcon_Side/UI_AvatarIcon_Side_NingguangCostumeFloral.png
+Dependencies: []

@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1772417610
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui_panel
+      Dependencies:
+        Dependency_0: ui
+    Info_1:
+      Name: ui
+      Dependencies: {}
+    Info_2:
+      Name: ui_bag
+      Dependencies: {}
