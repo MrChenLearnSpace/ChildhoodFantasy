@@ -331,7 +331,7 @@ public static class NetManager {
 			}
 			//分发消息
 			if (msgBase != null) {
-				FireMsg("Msg"+msgBase.GetName(), msgBase);
+				FireMsg(msgBase.GetName(), msgBase);
 			}
 			//没有消息了
 			else {

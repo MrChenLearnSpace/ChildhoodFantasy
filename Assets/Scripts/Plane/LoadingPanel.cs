@@ -35,7 +35,7 @@ public class LoadingPanel : BasePanel
         NetManager.AddMsgListener("MsgGetPlayerData", OnMsgGetPlayerData);
 
         ProtocolBytes protoPlayerData = new ProtocolBytes();
-        protoPlayerData.AddString("GetPlayerData");
+        protoPlayerData.AddString("MsgGetPlayerData");
         NetManager.Send(protoPlayerData);
         StartCoroutine("LoadingSence", "Scene2");
     }

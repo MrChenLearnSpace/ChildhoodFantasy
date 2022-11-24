@@ -88,22 +88,29 @@ public class LoginPanel : BasePanel {
 			return;
 		}
 		//发送
-		ProtocolBytes msgLogin = new ProtocolBytes();
-		msgLogin.AddString("Login");
-		msgLogin.AddString(idInput.text);
-		msgLogin.AddString(pwInput.text);
+		MsgLogin msgLogina = new MsgLogin();
+		msgLogina.id = idInput.text;
+		msgLogina.pw = pwInput.text;
+
+		ProtocolBytes msgLogin = msgLogina.Encode();
+		//msgLogin.AddString("Login");
+		//msgLogin.AddString(idInput.text);
+		//msgLogin.AddString(pwInput.text);
+
 		
 		NetManager.Send(msgLogin);
 	}
 
 	//收到登陆协议
 	public void OnMsgLogin(ProtocolBase msgBase) {
-		int start = 0;
+		//int start = 0;
 		ProtocolBytes msgLogin = (ProtocolBytes)msgBase;
-		msgLogin.GetString(start, ref start);
-		int result = msgLogin.GetInt(start, ref start);
+		MsgLogin msgLogin1 = new MsgLogin();
+	    msgLogin1.Decode(msgLogin);
+		//msgLogin.GetString(start, ref start);
+		//int result = msgLogin.GetInt(start, ref start);
         //MsgLogin msg = (MsgLogin)msgBase;
-        if (result == 0) {
+        if (msgLogin1.result == 0) {
             Debug.Log("登陆成功");
 			//设置id
 			// GameMain.id = msg.id;

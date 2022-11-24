@@ -5,6 +5,6 @@ using UnityEngine;
 [System.Serializable]
 public class PlayerData : ActorData {
     // Start is called before the first frame update
-    public List<WeaponData> weaponDatas;
-    public List<FoodData> foodDatas;
+    public List<WeaponData> weaponDatas = new List<WeaponData>();
+    public List<FoodData> foodDatas = new List<FoodData>();
 }

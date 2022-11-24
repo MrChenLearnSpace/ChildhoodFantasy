@@ -56,7 +56,7 @@ public class RegisterPanel : BasePanel {
 			return;
 		}
 		ProtocolBytes msgReg = new ProtocolBytes();
-		msgReg.AddString("Register");
+		msgReg.AddString("MsgRegister");
 		msgReg.AddString(idInput.text);
 		msgReg.AddString(pwInput.text);
 		//发送
